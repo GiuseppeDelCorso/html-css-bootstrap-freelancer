@@ -1,0 +1,21 @@
+#immagine{
+    width: 10rem;
+}
+.my_liena_main{
+    width: 10rem;
+    height: 0.4rem;
+    background-color: black;
+    border-radius: 10px;
+}
+.immagine_card{
+    width: 15rem;
+    margin: 10px;
+    border-radius: 20px;
+}
+.color_footer{
+    background-color: darkgray;
+}
+
+.color{
+    background-color: rgb(41, 212, 25);
+}
