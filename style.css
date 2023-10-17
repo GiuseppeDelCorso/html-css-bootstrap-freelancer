@@ -12,13 +12,16 @@
     margin: 10px;
     border-radius: 20px;
 }
+.color_header{
+   background-color: #2c3e50; 
+}
 .color_footer{
-    background-color: darkgray;
+    background-color: #3b546c;
 }
 .color_footer_2{
-    background-color: rgb(24, 17, 56);
+    background-color: #2c3e50;
 }
 
 .color{
-    background-color: rgb(41, 212, 25);
+    background-color: #1abd9d;
 }
